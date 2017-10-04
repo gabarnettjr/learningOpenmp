@@ -3,7 +3,7 @@
 
 void simple( int n, float *a, float *b );
 
-int main()
+int main(void)
 {
 	int n=5;
 	float a[] = { 1, 2, 3, 4, 5 };
